@@ -1,0 +1,8 @@
+﻿  Generator.cpp
+e:\projects\os project\os-project\os starter project\os project\generator.cpp(8): warning C4244: 'initializing': conversion from 'std::chrono::system_clock::rep' to 'unsigned int', possible loss of data
+e:\projects\os project\os-project\os starter project\os project\generator.cpp(100): warning C4244: 'initializing': conversion from 'std::chrono::system_clock::rep' to 'unsigned int', possible loss of data
+  Generating Code...
+  Skipping... (no relevant changes detected)
+  ReadingWriting.cpp
+  Os Project.cpp
+  Os Project.vcxproj -> E:\Projects\OS Project\Os-Project\OS starter Project\x64\Debug\Os Project.exe
