@@ -1,8 +1,28 @@
-﻿  Generator.cpp
-e:\projects\os project\os-project\os starter project\os project\generator.cpp(8): warning C4244: 'initializing': conversion from 'std::chrono::system_clock::rep' to 'unsigned int', possible loss of data
-e:\projects\os project\os-project\os starter project\os project\generator.cpp(100): warning C4244: 'initializing': conversion from 'std::chrono::system_clock::rep' to 'unsigned int', possible loss of data
-  Generating Code...
-  Skipping... (no relevant changes detected)
+﻿  stdafx.cpp
+  Timer.cpp
+  SRTN.cpp
+e:\projects\os project\os-project\os starter project\os project\srtn.cpp(14): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+e:\projects\os project\os-project\os starter project\os project\srtn.cpp(24): warning C4553: '==': operator has no effect; did you intend '='?
+e:\projects\os project\os-project\os starter project\os project\srtn.cpp(43): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Scheduler.cpp
+  RR.cpp
+e:\projects\os project\os-project\os starter project\os project\rr.cpp(17): warning C4553: '==': operator has no effect; did you intend '='?
+e:\projects\os project\os-project\os starter project\os project\rr.cpp(35): warning C4553: '==': operator has no effect; did you intend '='?
   ReadingWriting.cpp
+e:\projects\os project\os-project\os starter project\os project\readingwriting.cpp(135): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  ProcessStructure.cpp
+  Os.cpp
+e:\projects\os project\os-project\os starter project\os project\os.cpp(48): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+e:\projects\os project\os-project\os starter project\os project\os.cpp(91): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
   Os Project.cpp
+  HPF.cpp
+e:\projects\os project\os-project\os starter project\os project\hpf.cpp(23): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+e:\projects\os project\os-project\os starter project\os project\hpf.cpp(45): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+e:\projects\os project\os-project\os starter project\os project\hpf.cpp(55): warning C4553: '==': operator has no effect; did you intend '='?
+  Generator.cpp
+e:\projects\os project\os-project\os starter project\os project\generator.cpp(8): warning C4244: 'initializing': conversion from 'std::chrono::system_clock::rep' to 'unsigned int', possible loss of data
+e:\projects\os project\os-project\os starter project\os project\generator.cpp(107): warning C4244: 'initializing': conversion from 'std::chrono::system_clock::rep' to 'unsigned int', possible loss of data
+  FCFS.cpp
+e:\projects\os project\os-project\os starter project\os project\fcfs.cpp(19): warning C4553: '==': operator has no effect; did you intend '='?
+  Generating Code...
   Os Project.vcxproj -> E:\Projects\OS Project\Os-Project\OS starter Project\x64\Debug\Os Project.exe

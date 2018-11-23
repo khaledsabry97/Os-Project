@@ -90,7 +90,14 @@ vector<float> Generator::randomArrival()
 //n is number of processes
 vector<float> Generator::randomBurst()
 {
-	return randomNormal(noOfProcesses, burstTimeMean, burstTimeStandardDeviation);
+	vector<float> nums = randomNormal(noOfProcesses, burstTimeMean, burstTimeStandardDeviation);
+	for (int i = 0; i < nums.size(); i++)
+	{
+		//case could happen
+		if (nums[i] == 0)
+			nums[i] += 0.5;
+	}
+	return nums;
 
 }
 
