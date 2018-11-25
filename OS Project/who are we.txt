@@ -1,0 +1,6 @@
+Team : 24
+Names:
+Ahmed Salah Bn 5 sec 1
+Khaled Sabry bn 19 sec 1
+
+//Sorry we couldn't make both graph and project run standalone program so we have to open the visual studio for example to test
