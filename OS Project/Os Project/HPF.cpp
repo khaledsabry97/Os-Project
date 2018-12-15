@@ -29,7 +29,7 @@ void HPF::push(ProcessStructure * process)
 			swap(processes[i], processes[i - 1]);
 		else if (processes[i]->process->priority == processes[i - 1]->process->priority)
 		{
-			if (processes[i]->process->burstTime < processes[i - 1]->process->burstTime)
+			if (processes[i]->process->processNumber < processes[i - 1]->process->processNumber)
 				swap(processes[i], processes[i - 1]);
 
 		}

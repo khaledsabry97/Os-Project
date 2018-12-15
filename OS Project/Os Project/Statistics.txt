@@ -1,17 +1,17 @@
 For Process 1 :
-	Turnaround Time = 8.77
-	Weighted Turnaround Time = 1.13
-	Waiting Time = 1
+	Turnaround Time = 18.8
+	Weighted Turnaround Time = 1.12
+	Waiting Time = 2
 
 For Process 2 :
-	Turnaround Time = 18
-	Weighted Turnaround Time = 1.55
-	Waiting Time = 6.36
+	Turnaround Time = 38.7
+	Weighted Turnaround Time = 8.77
+	Waiting Time = 34.3
 
 For Process 3 :
-	Turnaround Time = 2.87
-	Weighted Turnaround Time = 1.53
-	Waiting Time = 1
+	Turnaround Time = 33
+	Weighted Turnaround Time = 2.18
+	Waiting Time = 17.9
 
-Average Turnaround Time = 9.89
-Average Weighted Turnaround Time = 1.4
+Average Turnaround Time = 30.2
+Average Weighted Turnaround Time = 4.02

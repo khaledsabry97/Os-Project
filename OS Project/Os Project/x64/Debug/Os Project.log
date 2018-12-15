@@ -1,0 +1,5 @@
+﻿  HPF.cpp
+e:\projects\os project\os-project\os project\os project\hpf.cpp(23): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+e:\projects\os project\os-project\os project\os project\hpf.cpp(45): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+e:\projects\os project\os-project\os project\os project\hpf.cpp(55): warning C4553: '==': operator has no effect; did you intend '='?
+  Os Project.vcxproj -> E:\Projects\OS Project\Os-Project\OS Project\x64\Debug\Os Project.exe
